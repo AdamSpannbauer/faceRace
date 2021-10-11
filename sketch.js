@@ -9,7 +9,9 @@ window.setup = () => {
 };
 
 window.draw = () => {
+
+  
   background(0);
   // rotateFromCenter(QUARTER_PI);
-  rect(mouseX, mouseY, 100, 100);
+  rect(mouseX-100, mouseY-100, 100, 100);
 };
