@@ -1,0 +1,27 @@
+{
+  "name": "facerace",
+  "version": "1.0.0",
+  "description": "Slow and smiley wins the race. Keep your mouth straight to stay on course.",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSpannbauer/faceRace.git"
+  },
+  "author": "Adam and Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamSpannbauer/faceRace/issues"
+  },
+  "homepage": "https://github.com/AdamSpannbauer/faceRace#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "dependencies": {
+    "eslint-config-p5js": "^1.1.0"
+  }
+}
